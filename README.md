@@ -1,4 +1,4 @@
-# The Cancer Imgaging Archie Low Grade Glioma vs Glioblastoma Classification
+# The Cancer Imgaging Archive Low Grade Glioma vs Glioblastoma Classification
 
 An XGBoost machine learning model was applied for dichotomized classification of glioblastomas versus low grade gliomas. For the development of this model, the “XGBoost” Python package was used. 
 
